@@ -10,6 +10,7 @@ import org.json.JSONObject;
 
 public class ChatClient {
 	//필드
+	// 추가된 내용이 있습니다.
 	Socket socket;
 	DataInputStream dis;
 	DataOutputStream dos;
